@@ -6,7 +6,9 @@
 *thinkplot.Pmfs([pmf,biased_pmf])*  
 *thinkplot.config(xlabel='Nnumber of Children',ylabel='PMF')*  
   
-! [] (exercise3_1_plot.png)  
+! [] (exercise3_1_plot.png)
+<img src="exercise3_1_plot.png"
+     style="float: left; margin-right: 10px;" />
   
 *print('Actual mean is ',pmf.Mean())*  
 *print('Biased mean is ',biased_pmf.Mean())*  
