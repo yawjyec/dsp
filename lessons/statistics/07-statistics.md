@@ -93,8 +93,8 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
-**In frequentist statistics, the parameters are fixed, although maybe unknown. The data are random. We find confidence intervals for the parameters.**. 
-**In Bayesian analysis, the parameters are random and the data are fixed. We find probability intervals for the parameters.**
+In frequentist statistics, the parameters are fixed, although maybe unknown. The data are random. We find confidence intervals for the parameters.  
+In Bayesian analysis, the parameters are random and the data are fixed. We find probability intervals for the parameters.
 
 
 ---
