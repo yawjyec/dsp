@@ -7,4 +7,5 @@
 *thinkplot.Cdfs([pmf,cdf])*  
 *thinkplot.config(xlabel='Random Number',ylabel='Probability')*  
   
-<img src="exercise4_2_plot.png" margin-left: 10px;" />
+<img src="exercise4_2_plot.png" 
+         margin-left: 10px;" />
